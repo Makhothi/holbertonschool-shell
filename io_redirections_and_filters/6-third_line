@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3p' iacta
+iacta_0 iacta_1 iacta_2
